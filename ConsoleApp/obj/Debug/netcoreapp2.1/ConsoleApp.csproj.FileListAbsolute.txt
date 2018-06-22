@@ -1,0 +1,14 @@
+/Users/zeleebobo/Projects/sharp/RedBlackTree/ConsoleApp/bin/Debug/netcoreapp2.1/ConsoleApp.deps.json
+/Users/zeleebobo/Projects/sharp/RedBlackTree/ConsoleApp/bin/Debug/netcoreapp2.1/ConsoleApp.runtimeconfig.json
+/Users/zeleebobo/Projects/sharp/RedBlackTree/ConsoleApp/bin/Debug/netcoreapp2.1/ConsoleApp.runtimeconfig.dev.json
+/Users/zeleebobo/Projects/sharp/RedBlackTree/ConsoleApp/bin/Debug/netcoreapp2.1/ConsoleApp.dll
+/Users/zeleebobo/Projects/sharp/RedBlackTree/ConsoleApp/bin/Debug/netcoreapp2.1/ConsoleApp.pdb
+/Users/zeleebobo/Projects/sharp/RedBlackTree/ConsoleApp/bin/Debug/netcoreapp2.1/RedBlackTree.dll
+/Users/zeleebobo/Projects/sharp/RedBlackTree/ConsoleApp/bin/Debug/netcoreapp2.1/RedBlackTree.pdb
+/Users/zeleebobo/Projects/sharp/RedBlackTree/ConsoleApp/obj/Debug/netcoreapp2.1/ConsoleApp.csprojAssemblyReference.cache
+/Users/zeleebobo/Projects/sharp/RedBlackTree/ConsoleApp/obj/Debug/netcoreapp2.1/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/zeleebobo/Projects/sharp/RedBlackTree/ConsoleApp/obj/Debug/netcoreapp2.1/ConsoleApp.AssemblyInfoInputs.cache
+/Users/zeleebobo/Projects/sharp/RedBlackTree/ConsoleApp/obj/Debug/netcoreapp2.1/ConsoleApp.AssemblyInfo.cs
+/Users/zeleebobo/Projects/sharp/RedBlackTree/ConsoleApp/obj/Debug/netcoreapp2.1/ConsoleApp.csproj.CopyComplete
+/Users/zeleebobo/Projects/sharp/RedBlackTree/ConsoleApp/obj/Debug/netcoreapp2.1/ConsoleApp.dll
+/Users/zeleebobo/Projects/sharp/RedBlackTree/ConsoleApp/obj/Debug/netcoreapp2.1/ConsoleApp.pdb

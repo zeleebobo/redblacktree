@@ -1,0 +1,9 @@
+/Users/zeleebobo/Projects/sharp/RedBlackTree/RedBlackTree/bin/Debug/netcoreapp2.1/RedBlackTree.deps.json
+/Users/zeleebobo/Projects/sharp/RedBlackTree/RedBlackTree/bin/Debug/netcoreapp2.1/RedBlackTree.dll
+/Users/zeleebobo/Projects/sharp/RedBlackTree/RedBlackTree/bin/Debug/netcoreapp2.1/RedBlackTree.pdb
+/Users/zeleebobo/Projects/sharp/RedBlackTree/RedBlackTree/obj/Debug/netcoreapp2.1/RedBlackTree.csprojAssemblyReference.cache
+/Users/zeleebobo/Projects/sharp/RedBlackTree/RedBlackTree/obj/Debug/netcoreapp2.1/RedBlackTree.csproj.CoreCompileInputs.cache
+/Users/zeleebobo/Projects/sharp/RedBlackTree/RedBlackTree/obj/Debug/netcoreapp2.1/RedBlackTree.AssemblyInfoInputs.cache
+/Users/zeleebobo/Projects/sharp/RedBlackTree/RedBlackTree/obj/Debug/netcoreapp2.1/RedBlackTree.AssemblyInfo.cs
+/Users/zeleebobo/Projects/sharp/RedBlackTree/RedBlackTree/obj/Debug/netcoreapp2.1/RedBlackTree.dll
+/Users/zeleebobo/Projects/sharp/RedBlackTree/RedBlackTree/obj/Debug/netcoreapp2.1/RedBlackTree.pdb

@@ -1,0 +1,17 @@
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/obj/Debug/netcoreapp2.1/Tests.csprojAssemblyReference.cache
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/obj/Debug/netcoreapp2.1/Tests.csproj.CoreCompileInputs.cache
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/obj/Debug/netcoreapp2.1/Tests.AssemblyInfoInputs.cache
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/obj/Debug/netcoreapp2.1/Tests.AssemblyInfo.cs
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/bin/Debug/netcoreapp2.1/Tests.deps.json
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/bin/Debug/netcoreapp2.1/Tests.runtimeconfig.json
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/bin/Debug/netcoreapp2.1/Tests.runtimeconfig.dev.json
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/bin/Debug/netcoreapp2.1/Tests.dll
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/bin/Debug/netcoreapp2.1/Tests.pdb
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/bin/Debug/netcoreapp2.1/RedBlackTree.dll
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/bin/Debug/netcoreapp2.1/RedBlackTree.pdb
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/obj/Debug/netcoreapp2.1/Tests.csproj.CopyComplete
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/obj/Debug/netcoreapp2.1/Tests.dll
+/Users/zeleebobo/Projects/sharp/RedBlackTree/Tests/obj/Debug/netcoreapp2.1/Tests.pdb
